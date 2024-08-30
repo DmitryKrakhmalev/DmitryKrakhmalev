@@ -1,8 +1,6 @@
 
 ![Статистика](https://myreadme.vercel.app/api/embed/DmitryKrakhmalev?panels=userstatistics,toprepositories,toplanguages,commitgraph)
-
-<!--
-**DmitryKrakhmalev/DmitryKrakhmalev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Статистика2](https://github-readme-streak-stats.herokuapp.com/?user=DmitryKrakhmalev)
 
 Here are some ideas to get you started:
 
