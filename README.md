@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![Статистика](https://myreadme.vercel.app/api/embed/DmitryKrakhmalev?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 <!--
 **DmitryKrakhmalev/DmitryKrakhmalev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
